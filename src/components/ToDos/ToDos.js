@@ -25,6 +25,7 @@ useEffect(() => {
         <h1 className="text-center">ToDos</h1>
       </article>
 
+      
       <Container className='p-2'>
 
         <Table className="table bg-info table-dark my-3">
